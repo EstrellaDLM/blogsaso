@@ -5,3 +5,14 @@ body {
 }
 
 
+#cabecera {
+    color: green;
+    border:black 1px solid;
+    padding: 200px
+
+}
+#blog{
+    border:black 1px solid;
+    padding: 50px;
+    border: 200 solid yellow;
+}
